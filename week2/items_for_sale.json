@@ -1,0 +1,46 @@
+{
+    "phantom_lockpicks": {
+        "description": "A set of ethereal tools that shimmer like moonlight. These lockpicks can slip through even enchanted locks, leaving no trace of entry.",
+        "price": 100
+    },
+    "unbreakable_shackle": {
+        "description": "A padlock forged from midnight steel and bound with a protective hex. It emits a low hum when tampered with and is said to curse thieves with clumsy hands.",
+        "price": 70
+    },
+    "spyglass_of_farseeing": {
+        "description": "An ornate spyglass with a crystal lens that reveals not only great distances but hidden auras and veiled intentions. A must-have for spotting unseen threats.",
+        "price": 200
+    },
+    "howling_tripwire": {
+        "description": "A fine, near-invisible wire that releases a bone-chilling wail when disturbed. Perfect for catching trespassers or pranking rivals.",
+        "price": 30
+    },
+    "shadow_coffer": {
+        "description": "A shadowy box that swallows light and can only be opened by its rightful owner. Ideal for safeguarding the rarest treasures or dangerous secrets.",
+        "price": 80
+    },
+    "siren's_slip_oil": {
+        "description": "A sleek vial of shimmering oil that leaves surfaces as slick as ice. The faint scent of sea air accompanies its use, luring overconfident intruders to their downfall.",
+        "price": 120
+    },
+    "boots_of_ghostly_tread": {
+        "description": "These enchanted boots silence every step and leave no footprints, even in the thickest mud or snow. Ideal for infiltrating heavily guarded fortresses.",
+        "price": 200
+    },
+    "warden's_iron_chest": {
+        "description": "A colossal chest with bands of ancient iron. It seals with a spectral guardian that wards off thieves, testing their resolve with riddles of protection.",
+        "price": 150
+    },
+    "labyrinthine_door_mechanism": {
+        "description": "A contraption that creates secret doors so cunningly hidden they fool even the sharpest eyes. The mechanism shifts the wall as if alive.",
+        "price": 300
+    },
+    "fists_of_fury_brass_knuckles": {
+        "description": "These enchanted knuckles not only deliver devastating blows but also emit a fiery spark on impact. A favorite among underground fighters and collectors alike.",
+        "price": 50
+    },
+    "codex_of_veiled_defenses": {
+        "description": "A leather-bound tome that teaches arcane methods of protection. It includes diagrams for mystical traps and instructions for summoning minor guardians.",
+        "price": 100
+    }
+}

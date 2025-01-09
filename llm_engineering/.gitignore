@@ -1,15 +1,1 @@
 __init__.py
-model_templates.py
-optimized.cpp
-output_audio.mp3
-tools.json
-week2/__init__.py
-week2/baq_svc.py
-week2/character_pic.jpeg
-week2/items_for_sale.json
-week2/llama_order_tracker.py
-week2/order_chatbot.ipynb
-week2/practice.ipynb
-week2/practice2.ipynb
-week2/role_play_character.ipynb
-week2/woman_thief.jpeg

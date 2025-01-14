@@ -168,7 +168,8 @@ model_cache/
 # Ignore Chroma vector database
 vector_db/
 products_vectorstore/
-
+combined_emails.csv
+*.csv
 # And ignore any pickle files made during the course
 *.pkl
 
